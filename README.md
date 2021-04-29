@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/1351279?s=400&u=e3584806ff450797ee9d88a4bae6ac54410c9f3e&v=4" />
+</p>
+
+
 <!--
 **f3rn0s/f3rn0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
