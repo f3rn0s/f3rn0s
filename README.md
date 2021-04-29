@@ -1,3 +1,3 @@
 <p align="center">
-    ### About Me
+    <h3>About Me</h3>
 </p>
