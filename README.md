@@ -1,6 +1,6 @@
 <h3 align="center">About Me</h3>
 
-- Junior Penetration Tester (OSCP)
+- Penetration Tester (OSCP)
 - Hobbyist Programmer
 - Occasional [CTF competitor](https://ctftime.org/team/125483) ([HTB too](https://app.hackthebox.eu/profile/2986))
 - Computing and Cyber Security Graduate
